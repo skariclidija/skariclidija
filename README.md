@@ -22,7 +22,6 @@ technical documentation and analytical thinking.
 
 An end-to-end analytics project using public NHTSA
 vehicle complaint data, Python, PostgreSQL and Power BI.
-
 The project includes data ingestion, cleaning, SQL
 analysis, automated tests and an interactive dashboard.
 
